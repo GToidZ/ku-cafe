@@ -9,10 +9,11 @@ You learned the Markdown to do this in the `git-commands` assignments.
 ## Dinner
 | Menu          | Cost (THB) |
 |:--------------|-----------:|
-| Oatmeal       |      40.00 |
-| omelette      |      20.00 |
-| Mushroom Soup |      60.00 |
+| Oatmeal       |      50.00 |
+| Omelette      |      20.00 |
 | Milkshake     |      30.00 |
+| Mushroom Soup |      60.00 |
+
 
 
 
