@@ -1,7 +1,7 @@
 # KU Cafe
 
 
-[Breakfast](#Breakfast) | [Lunch](#lunch) | Dinner | [Night Food](#Night-food) | [Beverages](#Beverages)
+[Breakfast](#Breakfast) | [Lunch](#lunch) | [Dinner](#dinner) | [Night Food](#Night-food) | [Beverages](#Beverages)
 
 
 **TODO**: Convert the useless "Section1 | Section2 ..." to a **single line** containing hyperlinks to each section of the menu.
@@ -55,12 +55,22 @@ You learned the Markdown to do this in the `git-commands` assignments.
 | Ham Cheese Sandwich | 65.00 |
 | Tuna Sandwich | 65.00 |
 
+
+## Dinner
+| Menu          | Cost (THB) |
+|:--------------|-----------:|
+| Oatmeal       |      50.00 |
+| Omelette      |      20.00 |
+| Milkshake     |      30.00 |
+| Mushroom Soup |      60.00 |
+
+
 ## Night Food
 
 | Menu              | Cost (THB) |
 |:------------------|-----------:|
 | Cereal            |      15.00 |
-| Fired rice        |      30.00 |
+| Fried rice        |      30.00 |
 | Rice              |      10.00 |
 | White sauce pasta |      78.00 |
 
@@ -92,12 +102,12 @@ You learned the Markdown to do this in the `git-commands` assignments.
 
 **TODO**: Each person add yourself to this table; Points **deducted** if one person adds everyone. Name means name, **no student ids**.
 
-=======
+
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
 | Pawitchaya Chaloeijanya | Breakfast | @GToidZ |
 | Punn Chunwimaleung | Lunch | @Halcyon905 |
+| Supakrit Aphonmaeklong | Dinner | @Supakrit65 |
 | Maroj Thangthong | Night Food | @MarojT       |
 | Pakorn Laohakanniyom | Beverages | @RyukungG |
-
 
