@@ -7,7 +7,19 @@ You learned the Markdown to do this in the `git-commands` assignments.
 **TODO**: Remove all the TODO lines, of course.
 
 ## Beverages
+
+### Shots/On The Rock
+
+| Menu      | Cost (THB)|
+|:----------|----------:|
+| Gin       | 100.00    |
+| Rum       | 100.00    |
+| Tequla    | 120.00    |
+| Vodka     | 120.00    |
+| Whiskey   | 120.00    |
+
 ### Soft Drinks
+
 | Menu      | Cost (THB)|
 |:----------|----------:|
 | Coffee    | 40.00     |
@@ -16,14 +28,7 @@ You learned the Markdown to do this in the `git-commands` assignments.
 | Tea       | 40.00     |
 | Water     | 10.00     |
 
-### Shots/On The Rock
-| Menu      | Cost (THB)|
-|:----------|----------:|
-| Gin       | 100.00    |
-| Rum       | 100.00    |
-| Tequla    | 120.00    |
-| Vodka     | 120.00    |
-| Whiskey   | 120.00    |
+
 
  
 ## About Us
