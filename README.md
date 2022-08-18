@@ -100,5 +100,5 @@
 | Punn Chunwimaleung | Lunch | @Halcyon905 |
 | Supakrit Aphonmaeklong | Dinner | @Supakrit65 |
 | Maroj Thangthong | Night Food | @MarojT       |
-| Pakorn Laohakanniyom | Beverages | @RyukungG |
+| Pakorn Laohakanniyom | Beverages | @RyukungG, @PakornL |
 
