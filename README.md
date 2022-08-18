@@ -1,6 +1,6 @@
 # KU Cafe
 
-Section1 | Section2 | Section3 | ...
+[Beverages](#Beverages) | Section2 | Section3 | ...
 
 **TODO**: Convert the useless "Section1 | Section2 ..." to a **single line** containing hyperlinks to each section of the menu.
 You learned the Markdown to do this in the `git-commands` assignments.    
@@ -9,21 +9,21 @@ You learned the Markdown to do this in the `git-commands` assignments.
 ## Beverages
 ### Soft Drinks
 | Menu      | Cost (THB)|
-|:----------|-----------:|
-| Coffee | 40 |
-| Cola | 20 |
-| Soda | 10 |
-| Tea | 40 |
-| Water | 10 |
+|:----------|----------:|
+| Coffee    | 40.00     |
+| Cola      | 20.00     |
+| Soda      | 10.00     |
+| Tea       | 40.00     |
+| Water     | 10.00     |
 
 ### Shots/On The Rock
 | Menu      | Cost (THB)|
-|:----------|-----------:|
-| Gin | 100 |
-| Rum | 100 |
-| Tequla | 120 |
-| Vodka | 120 |
-| Whiskey | 120 |
+|:----------|----------:|
+| Gin       | 100.00    |
+| Rum       | 100.00    |
+| Tequla    | 120.00    |
+| Vodka     | 120.00    |
+| Whiskey   | 120.00    |
 
  
 ## About Us
@@ -32,7 +32,7 @@ You learned the Markdown to do this in the `git-commands` assignments.
 
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
-| Your name | Your menu | @your_github_id |
+| Pakorn Laohakanniyom | Beverages | @RyukungG |
 
 
 
