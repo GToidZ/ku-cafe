@@ -6,11 +6,22 @@ Section1 | Section2 | Section3 | ...
 You learned the Markdown to do this in the `git-commands` assignments.    
 **TODO**: Remove all the TODO lines, of course.
 
+## Breakfast
+| Menu          | Cost (THB) |
+|:--------------|-----------:|
+| Oatmeal       |      40.00 |
+| omelette      |      20.00 |
+| Mushroom Soup |      60.00 |
+| Milkshake     |      30.00 |
+
+
+
+
 ## About Us
 
 **TODO**: Each person add yourself to this table; Points **deducted** if one person adds everyone. Name means name, **no student ids**.
 
-| Name      | Role      | Github          |
-|:----------|-----------|-----------------|
-| Your name | Your menu | @your_github_id |
+| Name                   | Role   | Github      |
+|:-----------------------|--------|-------------|
+| Supakrit Aphonmaeklong | Dinner | @Supakrit65 |
 
