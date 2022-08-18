@@ -6,7 +6,7 @@
 You learned the Markdown to do this in the `git-commands` assignments.    
 **TODO**: Remove all the TODO lines, of course.
 
-## Nightfood
+## Nightfoods
 
 | Menu              | Cost (THB) |
 |:------------------|-----------:|
