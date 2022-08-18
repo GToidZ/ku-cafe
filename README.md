@@ -8,22 +8,22 @@ You learned the Markdown to do this in the `git-commands` assignments.
 
 ## Lunch
 
-### Sandwiches
-
-| Menu | Cost (THB) |
-|:---|---:|
-| Ham Cheese Sandwich | 65.00 |
-| Tuna Sandwich | 65.00 |
-| Egg Salad Sandwich | 65.00 |
-| Caprese Salad Sub Sandwich | 85.00 |
-
 ### Pastas
 
 | Menu | Cost (THB) |
 |:---|---:|
-| Macaroni and cheese | 75.00 |
+| Macaroni and Cheese | 75.00 |
 | Spaghetti with Tomato Sauce | 75.00 |
 | Spaghetti with White Sauce | 75.00 |
+
+### Sandwiches
+
+| Menu | Cost (THB) |
+|:---|---:|
+| Caprese Salad Sub Sandwich | 85.00 |
+| Egg Salad Sandwich | 65.00 |
+| Ham Cheese Sandwich | 65.00 |
+| Tuna Sandwich | 65.00 |
 
 ## About Us
 
