@@ -1,12 +1,6 @@
 # KU Cafe
 
-
-[Breakfast](#Breakfast) | [Lunch](#lunch) | [Dinner](#dinner) | [Night Food](#Night-food) | [Beverages](#Beverages)
-
-
-**TODO**: Convert the useless "Section1 | Section2 ..." to a **single line** containing hyperlinks to each section of the menu.
-You learned the Markdown to do this in the `git-commands` assignments.    
-**TODO**: Remove all the TODO lines, of course.
+[Breakfast](#Breakfast) | [Lunch](#lunch) | [Dinner](#dinner) | [Night Food](#night-food) | [Beverages](#beverages)
 
 
 ## Breakfast
@@ -70,9 +64,9 @@ You learned the Markdown to do this in the `git-commands` assignments.
 | Menu              | Cost (THB) |
 |:------------------|-----------:|
 | Cereal            |      15.00 |
-| Fried rice        |      30.00 |
+| Fried Rice        |      30.00 |
 | Rice              |      10.00 |
-| White sauce pasta |      78.00 |
+| White Sauce Pasta |      78.00 |
 
 ## Beverages
 
@@ -97,10 +91,7 @@ You learned the Markdown to do this in the `git-commands` assignments.
 | Water     | 10.00     |
 
 
-
 ## About Us
-
-**TODO**: Each person add yourself to this table; Points **deducted** if one person adds everyone. Name means name, **no student ids**.
 
 
 | Name      | Role      | Github          |
