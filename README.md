@@ -6,6 +6,26 @@ Section1 | Section2 | Section3 | ...
 You learned the Markdown to do this in the `git-commands` assignments.    
 **TODO**: Remove all the TODO lines, of course.
 
+## Beverages
+### Soft Drinks
+| Menu      | Cost (THB)|
+|:----------|-----------:|
+| Coffee | 40 |
+| Cola | 20 |
+| Soda | 10 |
+| Tea | 40 |
+| Water | 10 |
+
+### Shots/On The Rock
+| Menu      | Cost (THB)|
+|:----------|-----------:|
+| Gin | 100 |
+| Rum | 100 |
+| Tequla | 120 |
+| Vodka | 120 |
+| Whiskey | 120 |
+
+ 
 ## About Us
 
 **TODO**: Each person add yourself to this table; Points **deducted** if one person adds everyone. Name means name, **no student ids**.
@@ -13,4 +33,6 @@ You learned the Markdown to do this in the `git-commands` assignments.
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
 | Your name | Your menu | @your_github_id |
+
+
 
